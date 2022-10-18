@@ -1,10 +1,9 @@
-# day1
+# Day1
 helloworld
-##welcome to github
-#welcome to python
+- welcome to github
+- welcome to python learning
 # Day1
 github study
-lets learn something
+lets learn something new
 welcome to ece
-how are u?
-welcme to python
+welcome to python training
